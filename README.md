@@ -1,4 +1,4 @@
-## Matrix-Addition (6kyuu)
+## Matrix-Addition (6kyu)
 ## 21.10.2022
 ## Сложение матриц 
 ## [ссылка на задание](https://www.codewars.com/kata/526233aefd4764272800036f)
